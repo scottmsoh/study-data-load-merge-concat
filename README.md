@@ -9,4 +9,6 @@
         → SELECT, WHERE, JOIN, and etc.
         
         
-#### 2. Pandas (merge, join, concatenate)
+#### 2. Pandas 
+
+        → Merge, join, and concatenate
